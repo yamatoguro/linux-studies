@@ -1,0 +1,26 @@
+#########################################################################
+####### Estrutura do Sistema de Arquivos ################################
+#########################################################################
+
+.       -> Diretório atual
+..      -> Diretório pai
+bin     -> Comandos de sistema (aplicativos e bibliotecas)
+boot    -> Tudo relacionado à inicialização do sistema
+dev     -> Arquivos de identificaçao de dispositivos
+etc     -> Configurações de sistema e aplicativos
+home    -> Diretório de usuários
+init    -> Imagens de inicializaçao do Kernel
+lib     -> Bibliotecas de sistema e de aplicativos
+lib64   -> Bibliotecas de sistema e de aplicativos
+media   -> Onde ficam montados os dispositivos externos
+mnt     -> Onde ficam montados os discos internos
+opt     -> Pacotes opcionais
+proc    -> Processos de sistema
+root    -> Diretório do usuário root
+run     -> Processos de inicializaçao do sistema e processos contínuos
+sbin    -> Comandos de sistema (aplicativos e bibliotecas)
+srv     -> Arquivos de identificaçao e gerenciamento de serviços quando necessário
+sys     -> Informações sobre o sistema e hardware
+tmp     -> Arquivos temporários
+usr     -> Binários dos usuários e Dados Somente-Leitura
+var     -> Arquivos de Dados Variáveis
